@@ -2,7 +2,7 @@
   <div class="info" v-if="beer">
     <span class="info__title">We recommend</span>
     <span class="info__beer">🍺 {{ beer.brand }}, {{ beer.alcohol }}</span>
-    <button @click="getBeer()">Change</button>
+    <button @click="getBeer()">Another beer</button>
   </div>
 </template>
 
