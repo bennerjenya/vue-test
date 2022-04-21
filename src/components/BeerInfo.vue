@@ -31,7 +31,6 @@ export default {
   display: flex;
   align-items: center;
   flex-direction: column;
-  gap: 12px;
   color: #000;
   &__title {
     font-weight: 500;

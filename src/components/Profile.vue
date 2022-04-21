@@ -53,7 +53,6 @@ export default {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  gap: 12px;
   height: fit-content;
   &__image {
     width: 175px;
